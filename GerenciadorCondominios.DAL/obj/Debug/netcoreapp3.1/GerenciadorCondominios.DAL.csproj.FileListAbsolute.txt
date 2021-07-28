@@ -1,4 +1,6 @@
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios.DAL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.deps.json
+C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios.DAL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.runtimeconfig.json
+C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios.DAL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.runtimeconfig.dev.json
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios.DAL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.dll
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios.DAL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.pdb
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios.DAL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.dll
@@ -10,6 +12,4 @@ C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios.
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.csproj.CopyComplete
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.dll
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.pdb
-C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios.DAL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.runtimeconfig.json
-C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios.DAL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.runtimeconfig.dev.json
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.genruntimeconfig.cache

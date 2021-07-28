@@ -13,7 +13,7 @@ namespace GerenciadorCondominios.DAL.Mapeamentos
         {
             builder.Property(a => a.AluguelId).ValueGeneratedOnAdd();
             builder.Property(a => a.Valor).IsRequired();
-            builder.Property(a => a.Mes).IsRequired();
+            builder.Property(a => a.MesId).IsRequired();
             builder.Property(a => a.Ano).IsRequired();
 
             builder.HasOne(a => a.Mes).WithMany(a => a.Alugueis).HasForeignKey(a => a.MesId);

@@ -1,10 +1,3 @@
-C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.csproj.AssemblyReference.cache
-C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.AssemblyInfoInputs.cache
-C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.AssemblyInfo.cs
-C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.csproj.CoreCompileInputs.cache
-C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.MvcApplicationPartsAssemblyInfo.cache
-C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.RazorAssemblyInfo.cache
-C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.RazorAssemblyInfo.cs
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\bin\Debug\netcoreapp3.1\appsettings.json
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\bin\Debug\netcoreapp3.1\GerenciadorCondominios.exe
@@ -23,6 +16,7 @@ C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
@@ -53,6 +47,13 @@ C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\bin\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.dll
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\bin\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.pdb
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\bin\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.pdb
+C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.csproj.AssemblyReference.cache
+C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.AssemblyInfoInputs.cache
+C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.AssemblyInfo.cs
+C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.csproj.CoreCompileInputs.cache
+C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.MvcApplicationPartsAssemblyInfo.cache
+C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.RazorAssemblyInfo.cache
+C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.RazorAssemblyInfo.cs
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\staticwebassets\GerenciadorCondominios.StaticWebAssets.Manifest.cache
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\staticwebassets\GerenciadorCondominios.StaticWebAssets.xml
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\scopedcss\bundle\GerenciadorCondominios.styles.css
@@ -73,4 +74,3 @@ C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.dll
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.pdb
 C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.genruntimeconfig.cache
-C:\EmirNeto\Visual Studio - Repos\GerenciadorCondominios\GerenciadorCondominios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
